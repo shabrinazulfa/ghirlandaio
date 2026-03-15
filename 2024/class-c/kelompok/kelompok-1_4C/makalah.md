@@ -105,7 +105,7 @@
 #### b. Euclid menulis The Elements, buku yang menjadi dasar ilmu geometri. 
 #### c. Archimedes menemukan prinsip daya apung (Hukum Archimedes) dan mengembangkan konsep kalkulus awal.
 
-#### D. *Astronomi*.
+#### D. *Astronomi*. 
 #### a. Aristarchus dari sarmos mengusulkan teori Heliosentris, yang menyatakan bahwa matahari adalah pusat tata surya.
 #### b. Hipparchus menciptakan katalog bintang dan menemukan presisi ekuinoks.
 #### c. Eratosthenes berhasil mengukur keliling bumi dengan akurasi tinggi menggunakan bayangan matahari.
