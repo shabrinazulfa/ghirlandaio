@@ -6,3 +6,9 @@ Jean Baudrillard dalam bukunya yang berjudul *```Simulacra and Simulation```* me
 
 ## Pembahasan
 ### 4 Tahap Transformasi Gambar
+Baudrillard menggambarkan perjalanan representasi melalui empat tahap, yaitu:
+1. Gambar Sebagai Ref
+
+
+## Kesimpulan
+Dari pemikiran yang dikemukakan oleh Baudrillard menunjukkan bahwa simulasi mempunyai kemampuan untuk mengubah cara pandang manusia dalam memahami realitas aslinya. Perubahan ini terjadi melalui transformasi representasi yang diawali dengan empat tahap transformasi gambar, kemudian simulasi mulai menggantikan kenyataan ```(hiperrealitas)```, hingga pada akhirnya kesadaran manusia terbentuk oleh simulasi itu sendiri. Manusia pada akhirnya akan kehilangan kemampuan dalam membedakan kenyataan dan tiruan, sehingga perspektif manusia terhadap realitas berubah akibat pengaruh dari simulasi. 
